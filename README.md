@@ -77,6 +77,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Review of partial migration strategies, and the evolutionary causes and management consequences. 
 * [Clayton1987B - Why Mudskippers Build Walls](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Clayton1987B.md) 
      * Shows the impact of compressibility (increasing density) on territoriality through the use of mudwalls to define spaces and limit aggression between neighbors. 
+* [Couzin2011S - Uninformed Individuals Promote Democratic Consensus in Animal Groups](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Couzin2011S.md) 
+     * In the presence of a strongly opinionated majority, the introduction of naive (unbiased) individuals helps to return group decision making to the majority 
 * [Dixson2008PRSB - Coral reef fish smell leaves to find island homes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Dixson2008PRSB.md) 
      * Clownfish appear to have an innate olfactory attraction to rainforest vegetation which could be used to search out suitable habitat on island-associated reefs. 
 * [Ebersole1977E - The Adaptive Significance of Interspecific Territoriality in the Reef Fish Eupomacentrus Leucostictus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ebersole1977E.md) 
@@ -134,6 +136,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### circulation 
  
+* [AhlnasGarrison1984A - Satellite and oceanographic observations of the warm coastal current in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/AhlnasGarrison1984A.md) 
+     * Satellite observations of the Alaskan Coastal Current and the role of the current in the melt back of Chukchi Sea ice. 
 * [CorlettPickart2017PO - The Chukchi slope current](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/CorlettPickart2017PO.md) 
      * The authors describe the observation of a westward flow that advects a significant portion of Pacific-origin water, predominantly winter water, westward along the slope, as well as a weaker shelfbreak jet moving shallower water to the east. 
 * [Danielson2017DSRII - A comparison between late summer 2012 and 2013 water masses, macronutrients, and phytoplankton standing crops in the northern Bering and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Danielson2017DSRII.md) 
@@ -195,6 +199,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Laboratory observations of thermal tolerance via measurements of respiration and heart rate to acute changes across various acclimation temperatures.  Shows ability to acclimate to temperatures through changes in aerobic ability and scope after 1-month of exposure. 
 * [Eisner2013PB - Pelagic fish and zooplankton species assemblages in relation to water mass characteristics in the northern Bering and southeast Chukchi seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Eisner2013PB.md) 
      * Characterization of the zooplankton and pelagic fish community in relation to the physical and biological properties of the water masses in the northern Bering and southern Chukchi Seas. 
+* [Fossheim2015N - Recent warming leads to a rapid borealization of fish communities in the Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Fossheim2015N.md) 
+     * Evidence of rapid borealization in the Barents sea through community-wide geographic shifts from 2004-2012, credited to the northward expansion of thermal habitat for boreal species. Consequences for shifting energy pathways. 
 * [Geoffroy2011PB - The aggregation of polar cod (Boreogadus saida) in the deep Atlantic layer of ice-covered Amundsen Gulf (Beaufort Sea) in winter](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Geoffroy2011PB.md) 
      * Overwinter observations of vertical distribution of Arctic cod aggregations in the Canadian Beaufort, showing changes in depth distribution with water, light, and prey conditions. 
 * [Geoffroy2016PB - Vertical segregation of age-0 and age-1+ polar cod (Boreogadus saida) over the annual cycle in the Canadian Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Geoffroy2016PB.md) 
