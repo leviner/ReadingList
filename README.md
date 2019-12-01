@@ -261,17 +261,19 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Stroeve2014GRL.md) 
      * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 
-### zooplankton 
+### plankton 
  
-* [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Ashjian2017DSRII.md) 
+* [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Ashjian2017DSRII.md) 
      * Description of the late-summer zooplankton community composition at Hannah Shoal during August of 2012 and 2013, focusing on copepods and euphausiids of interest for bowhead whales. 
-* [Darnis2019PO - Could offspring predation offset the successful reproduction of the arctic copepod Calanus hyperboreus under reduced sea-ice cover conditions?](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Darnis2019PO.md) 
+* [Darnis2019PO - Could offspring predation offset the successful reproduction of the arctic copepod Calanus hyperboreus under reduced sea-ice cover conditions?](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Darnis2019PO.md) 
      * Year-round observations of C. hyperboreus growth and reproduction in the Canadian Beaufort Sea.  Hypothesize top-down control of the C. hyperboreus population by other omnivore species (M. longa, C. glacialis), increased by extended ice-free periods. 
-* [Day2013CSR - The offshore northeastern Chukchi Sea, Alaska: A complex high-latitude ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Day2013CSR.md) 
+* [Day2013CSR - The offshore northeastern Chukchi Sea, Alaska: A complex high-latitude ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Day2013CSR.md) 
      * Synthesis of the findings from the Chukchi Sea Environmental Studies Program from 2008-2010 at three regions of oil exploration interest near Hanna Shoal. 
-* [Ershova2015PB - Inter-annual variability of summer mesozooplankton communities of the western Chukchi Sea: 2004–2012](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Ershova2015PB.md) 
+* [Ershova2015PB - Inter-annual variability of summer mesozooplankton communities of the western Chukchi Sea: 2004–2012](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Ershova2015PB.md) 
      * Description of the zooplankton community in relation to water masses during 4 years of the RUSALCA survey program.  Community structure strongly correlated with bottom temperature. 
-* [Kitamura2017CSR - Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Kitamura2017CSR.md) 
+* [Kitamura2017CSR - Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Kitamura2017CSR.md) 
      * Use of AZFPs to describe the seasonality of zooplankton biomass, and identify the dominant scatterers in the southern Chukchi Sea, finding a seasonal peak in biomass in autumn and a minimum in early spring, not corresponnding with phytoplankton production.  Zooplpankton communities in the southern Chukchi are largely driven by advection from the Bering. 
-* [PinchukEisner2017DSRII - Spatial heterogeneity in zooplankton summer distribution in the eastern Chukchi Sea in 2012–2013 as a result of large-scale interactions of water masses](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/PinchukEisner2017DSRII.md) 
+* [Neely2018GRL - Unraveling Phytoplankton Community Dynamics in the Northern Chukchi Sea Under Sea-Ice-Covered and Sea-Ice-Free Conditions](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Neely2018GRL.md) 
+     * Multivariate classification of phytoplankton groups in association with ice and ice-free conditions in the N. Chukchi sea, showing clear variability as a function of depth and ice presence during the ICESCAPE program. 
+* [PinchukEisner2017DSRII - Spatial heterogeneity in zooplankton summer distribution in the eastern Chukchi Sea in 2012–2013 as a result of large-scale interactions of water masses](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/PinchukEisner2017DSRII.md) 
      * Describe the differences in zooplankton distribution (focussed on Calanus species of copepods) between 2012 and 2013 as part of the Arctic EIS study.  Zooplankton distribution is wind-driven and a balance between melt water and northward advection of warm Pacific water. 
