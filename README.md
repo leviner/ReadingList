@@ -51,6 +51,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [DeRobertis2019JMS - Amplifier linearity accounts for discrepancies in echo-integration measurements from two widely used echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/DeRobertis2019JMS.md) 
      * Found that echo-integration measurements of Ek80 are lower than those of EK60, and the range-dependency of the differences suggested a non-linear amplification in one of the systems which was identified within the EK60. 
+* [Lavery2017JMS - Exploiting signal processing approaches for broadband echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Lavery2017JMS.md) 
+     * Demonstration of a) calibration based on frequency-dependent bandwidth and b) use of tapered match filter on untapered signal to resolve targets near boundaries. 
+* [LevineDeRobertis2019FR - Don’t work too hard: Subsampling leads to efficient analysis of large acoustic datasets](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/LevineDeRobertis2019FR.md) 
+     * Demonstration of systematic subsampling to produce similar survey means with reduced user effort. 
 * [Ona1996JMS - Acoustic sampling and signal processing near the seabed: The deadzone revisited](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Ona1996JMS.md) 
      * Description and equations for acoustic dead zone and sA correction. 
 * [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Rose1995JMS.md) 
@@ -154,6 +158,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependece. 
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
+* [WangJC2015 - Historical changes in the Beaufort-Chukchi-Bering Seas surface winds and waves, 1971-2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/WangJC2015.md) 
+     *  
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
      * A review of the physical oceanography published in 'Fish Ecology in Arctic North America', AFS symposium proceedings.  Outlines the physical oceanography during the ice-free season in the NE Chukchi. 
 * [Woodgate2005DSRII - A year in the physical oceanography of the Chukchi Sea: Moored measurements from autumn 1990-1991](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2005DSRII.md) 
