@@ -118,6 +118,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### general 
  
+* [Burrows2019NCC - Ocean community warming responses explained by thermal affinities and temperature gradients](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Burrows2019NCC.md) 
+     * Demonstrate the effect of temperature on community shifts independent of other pressures based on the thermal niches of species within marine communities. 
 * [Gross1994TREE - The evolution of behavioural ecology](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Gross1994TREE.md) 
      * Brief letter on the history of behavioral ecology as a field 
 * [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
@@ -159,7 +161,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
 * [WangJC2015 - Historical changes in the Beaufort-Chukchi-Bering Seas surface winds and waves, 1971-2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/WangJC2015.md) 
-     *  
+     * Analysis of historical trends in wind speed and surface waves in the PAR to determine long term trends in waves, showing increases in wave height and period. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
      * A review of the physical oceanography published in 'Fish Ecology in Arctic North America', AFS symposium proceedings.  Outlines the physical oceanography during the ice-free season in the NE Chukchi. 
 * [Woodgate2005DSRII - A year in the physical oceanography of the Chukchi Sea: Moored measurements from autumn 1990-1991](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2005DSRII.md) 
@@ -221,6 +223,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Specifics of process used for multiyear rearing of B. saida in aquarium conditions, including specific measurements of spawning, growth, and key development milestones for fish reared at 3.5C. 
 * [Kessel2016PB - Distinct patterns of Arctic cod (Boreogadus saida) presence and absence in a shallow high Arctic embayment, revealed across open-water and ice-covered periods through acoustic telemetry](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kessel2016PB.md) 
      * The authors use acoustic telemetry (tagging) to investigate the spatial distribution of arctic cod in Resolute Bay in ice free and covered periods, and their presence in relation to environmental changes and predator presence. 
+* [Koenker2018JMS - Impacts of temperature and food availability on the condition of larval Arctic cod (Boreogadus saida) and walleye pollock (Gadus chalcogrammus)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Koenker2018JMS.md) 
+     * Study of body and lipid condition under different temperature-food conditions, showing temperature directly impacts larval A cod and pollock, and condition varies with both temperature and food availability. 
 * [Kono2016PB - Distribution pattern of Polar cod (Boreogadus saida) larvae and larval fish assemblages in relation to oceanographic parameters in the northern Bering Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kono2016PB.md) 
      * Examination of larval A. cod in relation to the environment in 2008 and 2013.  They hypothesize two different spawning areas, one in the Gulf of Anadyr and one possibly in the Chukchi leading to distributions in similar water conditions in two separate regions. 
 * [Laurel2016PB - Temperature-dependent growth and behavior of juvenile Arctic cod (Boreogadus saida) and co-occurring North Pacific gadids](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Laurel2016PB.md) 
