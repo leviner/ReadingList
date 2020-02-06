@@ -39,9 +39,10 @@ ax.bar(idx,a.values, width=1)
 ax.plot(idx, a.expanding().mean().values,'cyan')
 ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
 #set major ticks format
-ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%Y'))
 ax.set_ylabel('# papers read')
-plt.gcf().subplots_adjust(bottom=0.22)
+plt.gcf().subplots_adjust(bottom=0.25)
+plt.setp(ax.get_xticklabels(), rotation=45, horizontalalignment='center')
 plt.savefig('readingTimeline.png')
 
 
