@@ -137,6 +137,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Shuterlad1998AB - The importance of behavioural studies in conservation biology.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Shuterlad1998AB.md) 
      * Review discussing key fields and research where behavioral studies can assist conservation 
 
+## other 
+ 
+
+### visualizations 
+ 
+* [Rougier2014PLOSCB - Ten Simple Rules for Better Figures](https://github.com/leviner/ReadingList/tree/master/papers/other/visualizations/Rougier2014PLOSCB.md) 
+     * Study of body and lipid condition under different temperature-food conditions, showing temperature directly impacts larval A cod and pollock, and condition varies with both temperature and food availability. 
+
 ## pacificArctic 
  
 
@@ -249,6 +257,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This is the introduction paper for the 2016 Polar Biology special issue that came out of the 2014 ESSAS annual meeting, focused on Arctic cod and their role in Arctic food webs. 
 * [Parker-Stetter2011PB - Distribution of polar cod and age-0 fish in the U.S. Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Parker-Stetter2011PB.md) 
      * Investigation of the offshore distribution of Arctic cod in the U.S. Beaufort Sea to examine the density and water property associations. 
+* [Petrik2015PO - Progress in Oceanography Biophysical transport model suggests climate variability determines distribution of Walleye Pollock early life stages in the eastern Bering Sea through effects on spawning](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Petrik2015PO.md) 
+     * Biophysical modeling of early life history for walleye pollock in the EBS, suggesting temperature (ice conditions) and the resultin difference in temperature-dependent growth is the primary driver of inerannual variability in distribution. 
 * [Petrik2016JMS - Modelled connectivity between Walleye Pollock (Gadus chalcogrammus) spawning and age-0 nursery areas in warm and cold years with implications for juvenile survival](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Petrik2016JMS.md) 
      * Modeled connectivity of age-0 pollock population to spawning locations in the Eastern Bering. Patterns mostly follow along-isobath flow, though differ between warm and cold years. 
 * [Ponomarenko2000JI - Eggs, larvae, and juveniles of polar cod Boreogadus saida in the Barents, Kara, and White Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Ponomarenko2000JI.md) 
@@ -287,7 +297,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Use of AZFPs to describe the seasonality of zooplankton biomass, and identify the dominant scatterers in the southern Chukchi Sea, finding a seasonal peak in biomass in autumn and a minimum in early spring, not corresponnding with phytoplankton production.  Zooplpankton communities in the southern Chukchi are largely driven by advection from the Bering. 
 * [Neely2018GRL - Unraveling Phytoplankton Community Dynamics in the Northern Chukchi Sea Under Sea-Ice-Covered and Sea-Ice-Free Conditions](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Neely2018GRL.md) 
      * Multivariate classification of phytoplankton groups in association with ice and ice-free conditions in the N. Chukchi sea, showing clear variability as a function of depth and ice presence during the ICESCAPE program. 
-* [OkkonenPO2020 - Krill diel vertical migration: A diagnostic for variability of wind forcing over the Beaufort and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/OkkonenPO2020.md) 
+* [Okkonen2020po - Krill diel vertical migration: A diagnostic for variability of wind forcing over the Beaufort and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Okkonen2020po.md) 
      * Use of ADCPs to measure intensity of DVM in krill and correlate with wind and upwelling conditions in the western Beaufort. 
 * [PinchukEisner2017DSRII - Spatial heterogeneity in zooplankton summer distribution in the eastern Chukchi Sea in 2012–2013 as a result of large-scale interactions of water masses](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/PinchukEisner2017DSRII.md) 
      * Describe the differences in zooplankton distribution (focussed on Calanus species of copepods) between 2012 and 2013 as part of the Arctic EIS study.  Zooplankton distribution is wind-driven and a balance between melt water and northward advection of warm Pacific water. 
