@@ -4,6 +4,7 @@ import itertools
 from collections import Counter
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+import numpy as np
 import os
 from wordcloud import WordCloud
 
@@ -35,8 +36,9 @@ a = readDates.groupby('Date').size()
 idx = pd.date_range(min(readDates.Date), max(readDates.Date))
 a =a.reindex(idx,fill_value=0)
 fig, ax = plt.subplots(figsize=(4.5,2.5))
-ax.bar(idx,a.values, width=1)
 ax.plot(idx, a.expanding().mean().values,'cyan')
+a[a==0 ] = np.nan
+ax.scatter(idx,a.values, s=10*a.values, facecolors='none', edgecolors='b',alpha=.5)
 ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
 #set major ticks format
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%Y'))
