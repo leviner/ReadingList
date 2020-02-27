@@ -21,6 +21,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Currently in preparation manuscript on the 2016 Saildrone deployment in the Bering Sea, investigating vessel avoidance during opportunistic and follow-the-leader ship-saildrone comparisons. 
 * [Kaartvedt2009MEPS - Use of bottom-mounted echo sounders in exploring behavior of mesopelagic fishes](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Kaartvedt2009MEPS.md) 
      * Reporting of observations from 3 months of a 15-month deployment of a moored upward facing EK60 in a fjord, with brief discussions of the behavior of lanternfish. Behaviors were derived from tracked fish, using population movement as the "current" to be removed from individual tracks. 
+* [Kuhn2020MEPS - Test of unmanned surface vehicles to conduct remote focal follow studies of a marine predator](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Kuhn2020MEPS.md) 
+     * Showed the feasibility of using saildrones to conduct focal follow surveys of northern fur seals and characterize their habitat use. 
 * [Mordy2017O - Advances in Ecosystem Research: Saildrone Surveys of Oceanography, Fish, and Marine Mammals in the Bering Sea](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Mordy2017O.md) 
      * Overview of the 2016 Saildrone mission in the Bering Sea investigating relationships between fur seal bheavior and pollock distribution 
 * [ODriscoll2018AS - Acoustic deployments reveal Antarctic silverfish under ice in the Ross Sea](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/ODriscoll2018AS.md) 
@@ -227,6 +229,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Description of diet variability in age-0 to age-2 arctic cod in the Chukchi and Beaufort Seas.  Publication of enumerated prey species. 
 * [HopGjosaeter2013MBR - Polar cod ( Boreogadus saida ) and capelin ( Mallotus villosus ) as key species in marine food webs of the Arctic and the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/HopGjosaeter2013MBR.md) 
      * Comparison of the distribution of B. saida and capelin based on observations of both stocks since the 1970s.  Gives overview of both species life cycle and impacts of heating and reduced sea ice on populations individually and potential interactions. 
+* [Huserbraten2019CB - Polar cod in jeopardy under the retreating Arctic sea ice](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Huserbraten2019CB.md) 
+     * Backtracking modelling of age-0 polar cod dispersal, indicating that recruitment is largely correlated with ice presence and summer surface temperatures. 
 * [Kent2016JFB - Laboratory rearing of wild Arctic cod Boreogadus saida from egg to adulthood](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kent2016JFB.md) 
      * Specifics of process used for multiyear rearing of B. saida in aquarium conditions, including specific measurements of spawning, growth, and key development milestones for fish reared at 3.5C. 
 * [Kessel2016PB - Distinct patterns of Arctic cod (Boreogadus saida) presence and absence in a shallow high Arctic embayment, revealed across open-water and ice-covered periods through acoustic telemetry](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kessel2016PB.md) 
