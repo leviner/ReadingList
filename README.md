@@ -138,6 +138,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Editorial on the values and professional responsibilities of a fisheries researcher 
 * [Shuterlad1998AB - The importance of behavioural studies in conservation biology.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Shuterlad1998AB.md) 
      * Review discussing key fields and research where behavioral studies can assist conservation 
+* [Woillez2009ALR - Notes on survey-based spatial indicators for monitoring fish populations](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Woillez2009ALR.md) 
+     * A manual of spatial indicators for use in fisheries ecology to describe population distribution. 
 
 ## other 
  
@@ -209,6 +211,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * One of the earlier papers investigating the life history of Arctic cod from samples collected off the north slope of Alaska both nearshore and on the shelf break.  Arctic cod were found to be present in the coastal Beaufort year round. 
 * [Crawford2016PB - Occurrence of a gelatinous predator (Cyanea capillata) may affect the distribution of Boreogadus saida, a key Arctic prey fish species](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Crawford2016PB.md) 
      * This paper presents evidence of jellyfish avoidance by Arctic cod in a shallow bay of the Canadian Arctic Archipelago.  The authors describe observations of partitioning which they attribute primarily to avoidance. 
+* [Dahlke2018SA - Northern cod species face spawning habitat losses if global warming exceeds 1.5°C](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Dahlke2018SA.md) 
+     * Investigating the mpact of temperature and pCO2 on egg and larval development from broodstock. Additionally, they model loss of appropriate spawning areas based on future climate scenarios. 
 * [DeRobertis2015DSRIIa - Species and size selectivity of two midwater trawls used in an acoustic survey of the Alaska Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/DeRobertis2015DSRIIa.md) 
      * De Robertis et al. conducted a trawl selectivity experiment using recapture nets on a modified-Marinovich trawl to asses the species- and size-specific selectivity.  There is significant escapement, even for the most abundant species, and this analysis is required to properly calculate biomass/abundance estimates for juvenile Arctic cod. 
 * [DeRobertis2017DSRIIb - Abundance and distribution of Arctic cod (Boreogadus saida) and other pelagic fishes over the U.S. Continental Shelf of the Northern Bering and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/DeRobertis2017DSRIIb.md) 

@@ -4,7 +4,7 @@ Burrows, Michael T. and Bates, Amanda E. and Costello, Mark J. and Edwards, Mart
 ## Title:
 Ocean community warming responses explained by thermal affinities and temperature gradients
 ## Keywords:
-
+temperature, diversity, range
 ## Geographic Coverage
 N/A
 ## Field Dates:
