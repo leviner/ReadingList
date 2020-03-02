@@ -97,6 +97,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Interspecific territoriality may reduce competition between species with different diets, thus promoting coexistence and high levels of diversity. 
 * [Mehner2012FB - Diel vertical migration of freshwater fishes - proximate triggers, ultimate causes and research perspectives](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mehner2012FB.md) 
      * Review of patterns and mechanism of DVM in freshwater fish. 
+* [Methot1986CR - Frame trawl for sampling pelagic juvenile fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Methot1986CR.md) 
+     * Overview of Methot net for sampling of pelagic juvenile fish and zooplankton 
 * [Parrish2002BB - Self-organized fish schools: An examination of emergent properties](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Parrish2002BB.md) 
      * Tries to detangle the role of social and asocial forcings, and the mechanisms of why fish school through exploration of previous model development and their own. 
 * [Philipp2009TAFS - Selection for Vulnerability to Angling in Largemouth Bass](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Philipp2009TAFS.md) 
@@ -249,6 +251,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Laboratory experiments of the effect of temperature on growth rates in age-0 and age-1 Arctic cod.  Optimal temperature decreases with size, and growth is strongly dependent on both environmental temperature and size.  Source of L-W regressions and growth rates for juvenile fishes. 
 * [Leblanc2019E - The co-distribution of Arctic cod and its seabird predators across the marginal ice zone in Baffin Bay](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Leblanc2019E.md) 
      * Concurrent obervations of arctic cod (acoustics) and diving/surface feeding seabirds (observers) across Baffin bay in marginal ice conditions.  They find little correlation between the distribution of fish and seabirds, and relate the distributions of each with ice concentrations. 
+* [Leblanc2019PB - Pelagic production and the recruitment of juvenile polar cod Boreogadus saida in Canadian Arctic seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Leblanc2019PB.md) 
+     * Acoustic surveys in the canadian arctic show correlation with polar cod biomass and earlier ice breakup date. 
 * [Loggerwell2015PO - Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Loggerwell2015PO.md) 
      * Synthesized five years of surveys to look at differences in abundance (density) of animals from the lagoon to shelf slope in the Chukchi and Beaufort.  They also looked at icthyoplankton.  Based on Icthyoplankton, they state that the Beaufort Sea shelf is likely a spawning location for Arctic cod. 
 * [LowryFrost1981CFN - Distribution, growth, and foods of Arctic cod (Boreogadus saida) in the Bering, Chukchi and Beaufort Seas.](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/LowryFrost1981CFN.md) 
