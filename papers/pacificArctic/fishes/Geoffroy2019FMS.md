@@ -28,4 +28,4 @@ Species assemblages varied seasonally, where in summer arctic cod dominated the 
 - Polar night might restrict the northward range expansion of some species.
 winter
 
-Two primary food webs; calanus based (summer) and krill based (summer). The few arctic cod collected in summer also had krill in their diet. For many of the smaller krill (T. inermis), the lipid reserves are too small to survive winter in the arctic. By August, calanus already begin their descent to depth.
+Two primary food webs; calanus based (winter) and krill based (summer). The few arctic cod collected in summer also had krill in their diet. For many of the smaller krill (T. inermis), the lipid reserves are too small to survive winter in the arctic. By August, calanus already begin their descent to depth.

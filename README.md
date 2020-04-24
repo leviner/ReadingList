@@ -27,6 +27,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Overview of the 2016 Saildrone mission in the Bering Sea investigating relationships between fur seal bheavior and pollock distribution 
 * [ODriscoll2018AS - Acoustic deployments reveal Antarctic silverfish under ice in the Ross Sea](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/ODriscoll2018AS.md) 
      * This is a proof of concept study using a moored echosounder (ASL AZFP) and discrete observations from ships (acoustic and optical) to determine the abundance and spawning grounds of Antarctic silverfish. 
+* [Ohman2019LOM - Zooglider: An autonomous vehicle for optical and acoustic sensing of zooplankton](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Ohman2019LOM.md) 
+     * A spray glider with integrated 200 and 1000 kHz sonar and zoocam shadow imaging camera. 
 * [Ross2013MO - On the use of high-frequency broadband sonar to classify biological scattering layers from a cabled observatory in Saanich Inlet, British Columbia](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Ross2013MO.md) 
      * Used clustering to reduce the volume and discriminate between species/layers in long-term mooring data via spectral response, normalized spectra, and acoustic color. 
 * [Urmy2012JMS - Measuring the vertical distributional variability of pelagic fauna in Monterey Bay](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Urmy2012JMS.md) 
@@ -101,6 +103,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Overview of Methot net for sampling of pelagic juvenile fish and zooplankton 
 * [Parrish2002BB - Self-organized fish schools: An examination of emergent properties](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Parrish2002BB.md) 
      * Tries to detangle the role of social and asocial forcings, and the mechanisms of why fish school through exploration of previous model development and their own. 
+* [Pedersen2009FR - Advection and retention as life trait modulators of capelin larvae-A case study from the Norwegian coast and the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Pedersen2009FR.md) 
+     * Use of particle simulation modeling and larval surveys to investigate the role of mesoscale eddies on the transport/retention of capelin larvae along he Norwegian coast. 
 * [Philipp2009TAFS - Selection for Vulnerability to Angling in Largemouth Bass](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Philipp2009TAFS.md) 
      * Long-term breeding study showing that vulnerability to recreational angling in largemouth bass is an inheritable trait. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
@@ -195,6 +199,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This study describes the presence and dispersal of a large, dense aggregation of Arctic cod observed overwinter in Franklin Bay, and aims to explore the physical and behavioral mechanisms responsible for their retention in deep water. 
 * [Benoit2014PB - Pre-winter distribution and habitat characteristics of polar cod (Boreogadus saida) in southeastern Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Benoit2014PB.md) 
      * Investigate the distribution of age-0 and age-1+ aggregations of Arctic cod in the Canadian Beaufort in early Winter. 
+* [Berge2020CB - Artificial light during the polar night disrupts Arctic fish and zooplankton behaviour down to 200 m depth](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Berge2020CB.md) 
+     * Measurements of ship light influence on water column backscatter, which indicate that orientation change is likely responsible for rapid variability, and ship impacts are spatially limited. 
 * [Bouchard2016PB - Contrasting the early life histories of sympatric Arctic gadids Boreogadus saida and Arctogadus glacialis in the Canadian Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Bouchard2016PB.md) 
      * Comparison of A. glacialis and B. saida early life stages, including hatching, feeding, length at age, and mortality over April to August in two years of freeze-in sampling. 
 * [Bouchard2017PO - Climate warming enhances polar cod recruitment, at least transiently](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Bouchard2017PO.md) 
