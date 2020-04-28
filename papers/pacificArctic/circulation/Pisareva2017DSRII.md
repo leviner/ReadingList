@@ -10,7 +10,7 @@ Barrow Canyon
 ## Field Dates:
 08/01/2002 - 09/01/2004
 ## Significance:
-Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependece.
+Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependence.
 
 ## Notes:
 Upwelling in barrow canyon can bring Atlantic water onto the shelf.  Upwelling is believed to be caused by propogation of the shelf edge waters, changes in sea level pressure gradient, and southward flow dur to temporal variations in the outflow.  The most common mechanism of upwelling is enhanced easterly/northeasterly winds.  Here, they use two years of mooring data to investigate different aspects of the wind-driven Barrow Canyon upwelling, and look at interannual variability.
