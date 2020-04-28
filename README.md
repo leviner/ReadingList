@@ -35,6 +35,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Use of a moored 38kHz echosounder to look at the vertical distribution of backscatter and temporal variability over an 18-month deployment in Monterey Bay, CA, USA. 
 * [UrmyHorne2016DSRI - Multi-scale responses of scattering layers to environmental variability in Monterey Bay, California](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/UrmyHorne2016DSRI.md) 
      * Use of a moored 38kHz echosounder to correlate backscatter with oceanographic variability over an 18-month deployment in Monterey Bay, CA, USA.  Same system used in [Urmy et al, 2012, *J. Mar. Sci.*](https://academic.oup.com/icesjms/article/69/2/184/701699). 
+* [Verfuss2019MPB - A review of unmanned vehicles for the detection and monitoring of marine fauna](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Verfuss2019MPB.md) 
+     * A review of passive and active acoustic integration into unmanned vehicles, aimed at marine animal monitoring. 
 
 ### targets 
  
@@ -42,6 +44,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Arrhenius et al. deployed an upward facing echosounder in two lakes to determine the ability of a split-beam echosounder to track fish, using a stereo-video system to validate the recorded swim speeds. 
 * [Balk2017FR - Surface-induced errors in target strength and position estimates during horizontal acoustic surveys.](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Balk2017FR.md) 
      * Simulations and field observations of TS and angle biases due to surface reflection in horizontal acoustics and target tracking.   
+* [Boswell2020FR - Examining the relationship between morphological variation and modeled broadband scattering responses of reef-associated fishes from the Southeast United States](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Boswell2020FR.md) 
+     * Used CT scan swimbladder models to look at variability in common reef fish species in the Gulf of Mexico. Variability was high, and they report new TS-L relationships for their taxa. 
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
      * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
 * [EhrenbergTorkelson1996JMS - Application of dual-beam and split-beam target tracking in fisheries acoustics](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/EhrenbergTorkelson1996JMS.md) 
@@ -175,7 +179,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Pickart2016DSRII - Circulation of winter water on the Chukchi shelf in early Summer](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pickart2016DSRII.md) 
      * Study of the movement of winter water in the NE Chukchi Sea, describing the circulation and transport around Hanna Shoal towards Barrow Canyon. 
 * [Pisareva2017DSRII - On the nature of wind-forced upwelling in Barrow Canyon](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pisareva2017DSRII.md) 
-     * Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependece. 
+     * Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependence. 
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
 * [WangJC2015 - Historical changes in the Beaufort-Chukchi-Bering Seas surface winds and waves, 1971-2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/WangJC2015.md) 
