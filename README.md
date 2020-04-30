@@ -44,6 +44,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Arrhenius et al. deployed an upward facing echosounder in two lakes to determine the ability of a split-beam echosounder to track fish, using a stereo-video system to validate the recorded swim speeds. 
 * [Balk2017FR - Surface-induced errors in target strength and position estimates during horizontal acoustic surveys.](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Balk2017FR.md) 
      * Simulations and field observations of TS and angle biases due to surface reflection in horizontal acoustics and target tracking.   
+* [Bassett2018JMS - Broadband echosounder measurements of the frequency response of fishes and euphausiids in the Gulf of Alaska](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Bassett2018JMS.md) 
+     * Demonstrate the variability in Sv spectra among different monospecific aggregations in the Gulf of Alaska and the limited ability to discriminate among species. 
 * [Boswell2020FR - Examining the relationship between morphological variation and modeled broadband scattering responses of reef-associated fishes from the Southeast United States](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Boswell2020FR.md) 
      * Used CT scan swimbladder models to look at variability in common reef fish species in the Gulf of Mexico. Variability was high, and they report new TS-L relationships for their taxa. 
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
