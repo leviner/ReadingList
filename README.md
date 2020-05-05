@@ -54,6 +54,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Discussion of dual-beam and split-beam fish tracking techniques and their application for fisheries research.  Appendix contains calculations for error/noise in split-beam angular estimates. 
 * [Foote1987JASA - Fish target strengths for use in echo integrator surveys](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Foote1987JASA.md) 
      * An investigation into the backscattering cross section, or target strength, of fish, and the methods for in situ determination of TS and relating it to fish length.  Foote proposes a set of regression analyses from in situ measurements for generalized fish families based on available data. 
+* [Stanton2003JMR - Inferring fish orientation from broadband-acoustic echoes](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Stanton2003JMR.md) 
+     * Demonstration of the use of pulse-compressed broadband signal to constrain fish orientation by identifying multiple scattering sources within a single fish. 
 * [TorgersenKaartvedt2001JMR - In situ swimming behaviour of individual mesopelagic fish studied by split-beam echo target tracking](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/TorgersenKaartvedt2001JMR.md) 
      * One of the earlier papers presenting the use of target tracking of individual fish to evaluate individual behavior.  Used a 38 kHz EK500 for data collection. 
 
