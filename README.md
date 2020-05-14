@@ -48,6 +48,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Demonstrate the variability in Sv spectra among different monospecific aggregations in the Gulf of Alaska and the limited ability to discriminate among species. 
 * [Boswell2020FR - Examining the relationship between morphological variation and modeled broadband scattering responses of reef-associated fishes from the Southeast United States](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Boswell2020FR.md) 
      * Used CT scan swimbladder models to look at variability in common reef fish species in the Gulf of Mexico. Variability was high, and they report new TS-L relationships for their taxa. 
+* [BrautasetJMS2020 - Acoustic classification in multifrequency echosounder data using deep convolutional neural networks](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/BrautasetJMS2020.md) 
+     * Use of a CNN to identify sandeel in multiple years of multifrequency data, demonstrating potential and advantages. Model performance was good but highly dependent on annotation and training setup, and performance varied by year. 
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
      * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
 * [EhrenbergTorkelson1996JMS - Application of dual-beam and split-beam target tracking in fisheries acoustics](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/EhrenbergTorkelson1996JMS.md) 
@@ -308,6 +310,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * They investigate enhanced productivity and upwelling at the ice edge in the Eastern Bering Sea 
 * [Duarte2012NCC - Abrupt climate change in the Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Duarte2012NCC.md) 
      * Discussion of the causes and impacts of climate change in the Arctic. 
+* [Steele2008GRL - Arctic Ocean surface warming trends over the past 100 years](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Steele2008GRL.md) 
+     * Observations of surface warming trends across the arctic and the association with the Arctic Oscilation. 
 * [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Stroeve2014GRL.md) 
      * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 
