@@ -121,6 +121,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
      * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
+* [Rose1995JMR - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Rose1995JMR.md) 
+     * Observations of cod migration behavior by tracking agreggations using acoustics. They identify changes in school behavior with seaward/shoreward flow that suggest active transport. 
 * [ScheuerellSchindler2003E - Diel Vertical Migration by Juvenile Sockeye Salmon: Empirical Evidence for the Antipredation Window](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/ScheuerellSchindler2003E.md) 
      * Juvenile sockeye migrate to maintain a specific light environment to minimize predation risk in lakes. 
 * [Sisneros2009IZ - Adaptive hearing in the vocal plainfin midshipman fish: getting in tune for the breeding season and implications for acoustic communication.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Sisneros2009IZ.md) 
