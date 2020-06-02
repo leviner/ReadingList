@@ -162,6 +162,11 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ## other 
  
 
+### technology 
+ 
+* [Campbell2020JMS - The Prince William Sound Plankton Camera: a profiling in situ observatory of plankton and particulates](https://github.com/leviner/ReadingList/tree/master/papers/other/technology/Campbell2020JMS.md) 
+     * Application of convolutional neural network for identification of zooplankton species/taxa from profiling camera system over a 2-year deployment in PWS. 
+
 ### visualizations 
  
 * [Rougier2014PLOSCB - Ten Simple Rules for Better Figures](https://github.com/leviner/ReadingList/tree/master/papers/other/visualizations/Rougier2014PLOSCB.md) 
