@@ -10,6 +10,7 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
+Lab studies of egg and larval densities and salinity tolerances in the four north pacific gadid species, using model conditions to look at spatial impacts.
 
 ## Notes:
 Climate change in the Arctic and subarctic can change the spatio-temporal dynamics through changes in water inputs and movement, altering dispersal pathways. Early life stage survival depends on the environment in particular the potential to be advected into/across unsuitable habitats. The specific gravity of these eggs and larvae controls the vertical distribution and thus the conditions they are exposed to.
