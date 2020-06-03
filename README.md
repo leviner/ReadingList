@@ -314,6 +314,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This was the first fisheries survey of Arctic cod in the NE Chukchi (as far as I know), and showed that there were primarily young of the year A. cod, with a depth-dependent density.  Quast also speculates about the origin of the juvenile cod. 
 * [Skaret2020MEPS - Diel vertical movements determine spatial interactions between cod, pelagic fish and krill on an Arctic shelf bank](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Skaret2020MEPS.md) 
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
+* [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Spencer2020PB.md) 
+     *  
 * [Vestfals2019PB - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Vestfals2019PB.md) 
      * Vestfals et al aim to narrow down the potential spawning grounds for arctic and saffron cod based on the physical oceanography and summer distribution.  It contains a good review in the intro of the current literature on early life history. 
 * [VikeboMEPS2019 - Drift, growth, and survival of larval Northeast Arctic cod with simple rules of behaviour](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/VikeboMEPS2019.md) 
