@@ -207,6 +207,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Overview of the ADCP and other moored sensors deployed from 1990-2014 in the Bering Strait.  Stresses the importance of the Bering Strait as the sole conduit of water into the Arctic from the Pacific.  Near-complete 24 year time series of flow through Bering Strait. 
 * [Woodgate2018PO - Increases in the Pacific inflow to the Arctic from 1990 to 2015, and insights into seasonal trends and driving mechanisms from year-round Bering Strait mooring data](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2018PO.md) 
      * Trends of transport at Bering Strait from continuous measurements from 19990 - 2016.  Transport increase of .01-.02 Sv/year, driven by changes in the pressure head. 
+* [Zhang2020JGRO - Mechanisms Driving the Interannual Variability of the Bering Strait Throughflow](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Zhang2020JGRO.md) 
+     * Numerical model to study the role of pressure head and wind forcing separately the North Pacific vs. Arctic Ocean on transport and inflow at Bering Strait. 
 
 ### fishes 
  
@@ -315,7 +317,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Skaret2020MEPS - Diel vertical movements determine spatial interactions between cod, pelagic fish and krill on an Arctic shelf bank](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Skaret2020MEPS.md) 
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
 * [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Spencer2020PB.md) 
-     *  
+     * Lab studies of egg and larval densities and salinity tolerances in the four north pacific gadid species, using model conditions to look at spatial impacts. 
 * [Vestfals2019PB - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Vestfals2019PB.md) 
      * Vestfals et al aim to narrow down the potential spawning grounds for arctic and saffron cod based on the physical oceanography and summer distribution.  It contains a good review in the intro of the current literature on early life history. 
 * [VikeboMEPS2019 - Drift, growth, and survival of larval Northeast Arctic cod with simple rules of behaviour](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/VikeboMEPS2019.md) 
@@ -358,3 +360,5 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Use of ADCPs to measure intensity of DVM in krill and correlate with wind and upwelling conditions in the western Beaufort. 
 * [PinchukEisner2017DSRII - Spatial heterogeneity in zooplankton summer distribution in the eastern Chukchi Sea in 2012–2013 as a result of large-scale interactions of water masses](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/PinchukEisner2017DSRII.md) 
      * Describe the differences in zooplankton distribution (focussed on Calanus species of copepods) between 2012 and 2013 as part of the Arctic EIS study.  Zooplankton distribution is wind-driven and a balance between melt water and northward advection of warm Pacific water. 
+* [Spear2019PB - Physical and biological drivers of zooplankton communities in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/plankton/Spear2019PB.md) 
+     * Overview of CHAOZ zooplankton catches and comparison with the physical oceanography. Findings indicate some variability in warm vs. cold years, and transport comparisons lead them to hypothesize that there is a Chukchi source of the calanus population caught on the shelf. 
