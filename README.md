@@ -363,6 +363,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### OOI 
  
+* [Gawarkiewicz2018O - The Changing Nature of Shelf-Break Exchange Revealed by the OOI Pioneer Array](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Gawarkiewicz2018O.md) 
+     *  
 * [Harden2020JGRO - Trends in Physical Properties at the Southern New England Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Harden2020JGRO.md) 
      * Use of annual CTD surveys of the New England Shelf break to investigate changes from 2003 to 2012 in shelf structure, finding warming and increasing buoyancy likely related to observed changes in the gulf stream meanders. 
 
