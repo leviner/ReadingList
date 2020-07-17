@@ -156,6 +156,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Characterization of the zooplankton and pelagic fish community in relation to the physical and biological properties of the water masses in the northern Bering and southern Chukchi Seas. 
 * [Eriksen2015RSMS - The effect of recent warming on polar cod and beaked redfish juveniles in the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eriksen2015RSMS.md) 
      * Decadal trends in distribution of polar cod and redfish in the Barents Sea, indicating that temperature is a likely important driver of abundance, distribution, and growth in  age-0 polar cod and redfish. 
+* [Eriksen2019PB - Polar cod egg and larval drift patterns in the Svalbard archipelago](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eriksen2019PB.md) 
+     * Modeling study to investigate suitable spawning areas for polar cod around Svalbard. 
 * [EvseenkoBolshakova2020JI - Morphological Adaptations of Polar Cod Boreogadus saida (Gadidae) to a Life in the Ice Conditions](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/EvseenkoBolshakova2020JI.md) 
      * Morphology of scales and spiny bone plates of Boreogadus saida. The plates are only present on boreogadus and are potentially used to protect against contact with ice and reduce liminar flow around the body. 
 * [Forster2020PB - Spatial patterns, environmental correlates, and potential seasonal migration triangle of polar cod (Boreogadus saida) distribution in the Chukchi and Beaufort seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Forster2020PB.md) 
@@ -359,10 +361,17 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ## other 
  
 
+### OOI 
+ 
+* [Harden2020JGRO - Trends in Physical Properties at the Southern New England Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Harden2020JGRO.md) 
+     * Use of annual CTD surveys of the New England Shelf break to investigate changes from 2003 to 2012 in shelf structure, finding warming and increasing buoyancy likely related to observed changes in the gulf stream meanders. 
+
 ### technology 
  
 * [Campbell2020JMS - The Prince William Sound Plankton Camera: a profiling in situ observatory of plankton and particulates](https://github.com/leviner/ReadingList/tree/master/papers/other/technology/Campbell2020JMS.md) 
      * Application of convolutional neural network for identification of zooplankton species/taxa from profiling camera system over a 2-year deployment in PWS. 
+* [Liu2017PUC - Big data challenges in ocean observation: a survey](https://github.com/leviner/ReadingList/tree/master/papers/other/technology/Liu2017PUC.md) 
+     * Overview and examples of methods for 'big data' in marine science, including industry standards and examples of applications 
 
 ### visualizations 
  
