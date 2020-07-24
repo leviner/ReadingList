@@ -1,4 +1,4 @@
-07/17/19
+07/17/20
 ## Authors:
 Gawarkiewicz, Glen and Todd, Robert and Zhang, Weifeng and Partida, Jacob and Gangopadhyay, Avijit and Monim, Mahmud-Ul-Hasan and Fratantoni, Paula and Malek Mercer, Anna and Dent, Margaret
 ## Title:
@@ -10,7 +10,7 @@ New England Shelf Break
 ## Field Dates:
 N/A
 ## Significance:
-
+Observations from OOI gliders and moorings of warm core ring intrusions and new shelf break exchange processes.
 
 ## Notes:
 Circulation along the shelf break is primarily westward bounded by the front and jet. The front is the boundary between cold-fresh and warm-salty slope water. This front is unstable and can meander significantly. Long-term variations are needed to estimate the heat and salt flux of this cross-shelf exchange. Of interest is the impact on fish habitat of episodic and seasonal warming related to exchange, and the effect of cumulative warming on storm intensity and severity. Increased exchange can also lead to warming on the shelf, changing the density gradients and feeding back into the exchange process. Gulf stream meandering also impacts these exchanges, with increasing number of warm core rings.
