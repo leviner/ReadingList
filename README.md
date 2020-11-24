@@ -29,6 +29,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This is a proof of concept study using a moored echosounder (ASL AZFP) and discrete observations from ships (acoustic and optical) to determine the abundance and spawning grounds of Antarctic silverfish. 
 * [Ohman2019LOM - Zooglider: An autonomous vehicle for optical and acoustic sensing of zooplankton](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Ohman2019LOM.md) 
      * A spray glider with integrated 200 and 1000 kHz sonar and zoocam shadow imaging camera. 
+* [Ona2020JMS - In situ calibration of observatory broadband echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Ona2020JMS.md) 
+     * Calibrated a bottom-mounted observatory echosounder using a sphere from a ship in dynamic positioning. 
 * [Ross2013MO - On the use of high-frequency broadband sonar to classify biological scattering layers from a cabled observatory in Saanich Inlet, British Columbia](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Ross2013MO.md) 
      * Used clustering to reduce the volume and discriminate between species/layers in long-term mooring data via spectral response, normalized spectra, and acoustic color. 
 * [Urmy2012JMS - Measuring the vertical distributional variability of pelagic fauna in Monterey Bay](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Urmy2012JMS.md) 
@@ -363,8 +365,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### OOI 
  
-* [Gawarkiewicz2018O - The Changing Nature of Shelf-Break Exchange Revealed by the OOI Pioneer Array](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Gawarkiewicz2018O.md) 
+* [Chen2018O - Atmospheric and Offshore Forcing of Temperature Variability at the Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Chen2018O.md) 
      *  
+* [Gawarkiewicz2018O - The Changing Nature of Shelf-Break Exchange Revealed by the OOI Pioneer Array](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Gawarkiewicz2018O.md) 
+     * Observations from OOI gliders and moorings of warm core ring intrusions and new shelf break exchange processes. 
 * [Harden2020JGRO - Trends in Physical Properties at the Southern New England Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Harden2020JGRO.md) 
      * Use of annual CTD surveys of the New England Shelf break to investigate changes from 2003 to 2012 in shelf structure, finding warming and increasing buoyancy likely related to observed changes in the gulf stream meanders. 
 
