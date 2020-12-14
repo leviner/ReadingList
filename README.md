@@ -3,9 +3,9 @@
   <img src="https://github.com/leviner/ReadingList/blob/master/readingTimeline.png">
 </p>
 
-I am attempting to keep track of reading journal articles by maintaining a git repository that contains notes and .bib files specific to certain projects/themes/manuscripts.
+I am attempting to keep track of reading journal articles by maintaining a git repository that contains notes and .bib files specific to certain projects/themes/manuscripts. Although this was originally set up for long-form paper notes, I will also be including less thorough overviews just to keep track of papers I've perused.
 
-The goal is that these .md files will be able to be indexed by python based on things like author, keywords, and dates.  An example file, `noteTemplate.md` is available in the current directory.  Indexing can be done with `readingStats.py` which will be updated as needed.
+The goal is that these .md files will be able to be indexed by python based on things like author, keywords, and dates.  An example file, `noteTemplate.md` is available in the current directory.  Indexing can be done with `readingStats.py` which will be updated as needed. An accompanying jupyter notebook will be built with widget-based searching.
 
 # Paper Folders
 <p align="center">
@@ -95,6 +95,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Description of the water masses and transport across the Chukchi as observed in late-summer, focussed on the flow from Bering Strait to Barrow canyon and the implications on the Arctic basin. 
 * [Gong2016DSRII - Early summer water mass transformation in the eastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Gong2016DSRII.md) 
      * Detection of a dense Chukchi Sea Water and the description of possible sources due to formation relating tot he modification of water masses as they are transported across the NE Chukchi Shelf via observation during early summer. 
+* [Kodaira2020SR - Record high Pacific Arctic seawater temperatures and delayed sea ice advance in response to episodic atmospheric blocking](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Kodaira2020SR.md) 
+     * 2018 
 * [Martini2016JGRO - Dependence of subsurface chlorophyll on seasonal water masses in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Martini2016JGRO.md) 
      * Mapping of the subsurface chlorophyll maximum in the NE Chukchi Sea in late-summer, and the variability in nutrients and chlorophyll with hydrography and meltwater/summer water fronts.  They show that SCM depth in late summer is sensitive to seasonal changes in hydrography. 
 * [Peralta-FerrizWoodgate2017GRL - The Dominant Role of the East Siberian Sea in Driving the Oceanic Flow Through the Bering Strait—Conclusions From GRACE Ocean Mass Satellite Data and In Situ Mooring Observations Between 2002 and 2016](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Peralta-FerrizWoodgate2017GRL.md) 
@@ -190,6 +192,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * The authors use acoustic telemetry (tagging) to investigate the spatial distribution of arctic cod in Resolute Bay in ice free and covered periods, and their presence in relation to environmental changes and predator presence. 
 * [Kessel2017CJFAS - First documented large-scale horizontal movements of individual Arctic cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Kessel2017CJFAS.md) 
      * Observations of tagged Arctic cod 192 km distance away from tagginng, suggesting large-scale horizontal migration, with estimates of rate. 
+* [Kessel2020AS - Size class segregation of Arctic cod (Boreogadus saida) in a shallow High Arctic embayment](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Kessel2020AS.md) 
+     * Acoustic surveys show habitat partitioning by size class of Arctic cod across a shallow bay potentially driven by intraspecific predation, includes TS distributions of larger (>110 mm) fish. 
 * [Koenker2018JMS - Impacts of temperature and food availability on the condition of larval Arctic cod (Boreogadus saida) and walleye pollock (Gadus chalcogrammus)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Koenker2018JMS.md) 
      * Study of body and lipid condition under different temperature-food conditions, showing temperature directly impacts larval A cod and pollock, and condition varies with both temperature and food availability. 
 * [Kono2016PB - Distribution pattern of Polar cod (Boreogadus saida) larvae and larval fish assemblages in relation to oceanographic parameters in the northern Bering Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Kono2016PB.md) 
