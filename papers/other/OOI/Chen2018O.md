@@ -10,7 +10,7 @@ New England Shelf Break
 ## Field Dates:
 N/A
 ## Significance:
-
+Review of the atmospheric processes that impact the heat balance between advection and air-sea interactions
 
 ## Notes:
 The shelf-break front and jet separate the warm sub-tropic (Gulf Stream) and cool sub-polar (Labrador Current) waters along the New England Shelf Break. There is long-term evidence of warming in the Northwest Atlantic, with associated shifts across the ecosystem, and better understanding of the heat balance and temperature anomalies is important. The primary drivers of heat exchange in this region are air-sea exchange, along-shelf advective flux, and cross-shelf advective flux.
@@ -22,6 +22,3 @@ Heat balance
   - Pershing found trends between SST and decadal+ scale indices such as the AMO and PDO.
   - Forsyth found potential forcing of the shelfbreak front further onshore, increasing the presence of warm slope water on the shelf.
 - Extreme events are typically atmospheric forcings, such as the extreme heating in 2012 due to jet stream movement.
-
-Observations from OOI
--

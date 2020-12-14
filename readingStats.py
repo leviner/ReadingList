@@ -30,10 +30,13 @@ def wordCloud(testTable): # builds and saves the wordcloud from the md table
     listToStr = ','.join([str(elem) for elem in list(itertools.chain.from_iterable(testTable.Keywords))])
     wordcloud = WordCloud(background_color="white").generate(listToStr)
     wordcloud.to_file("readingCloud.png");
-    
 
-def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs): 
+
+def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs):
     # calendar heatmap function sourced from various stacks
+    DAYS = ['Sun.', 'Mon.', 'Tues.', 'Wed.', 'Thurs.', 'Fri.', 'Sat.']
+    MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.']
+
     # Combine values occurring on the same day.
     dates = series.index.floor('D')
     group = series.groupby(dates)
@@ -75,7 +78,6 @@ def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs):
     ax = ax or plt.gca()
     mesh = ax.pcolormesh(x, y, heatmap, edgecolor='k',linewidth=.005,**kwargs)
     ax.invert_yaxis()
-    DAYS = ['Sun.', 'Mon.', 'Tues.', 'Wed.', 'Thurs.', 'Fri.', 'Sat.']
     # Set the ticks.
     ax.set_xticks(list(ticks.keys()))
     ax.set_xticklabels(list(ticks.values()),fontsize=12)
@@ -91,18 +93,19 @@ def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs):
 def calendarMap(testTable): # Build the assembled calendar heat map. This is what will ned to be adjusted with each new year
     fig = plt.figure(figsize=(10,6))
     for year in testTable.Date.dt.year.unique():
-        plt.subplot(3,1,np.where(testTable.Date.dt.year.unique() == year)[0][0]+1)
+        ax = plt.subplot(3,1,np.where(testTable.Date.dt.year.unique() == year)[0][0]+1)
         date_heatmap(testTable[testTable.Date.dt.year == year].groupby('Date').count()['fName'], start = pd.to_datetime('1-1-'+str(year)), end = pd.to_datetime('12-31-'+str(year)))
         cmap = mpl.cm.get_cmap('Blues', 5)
         plt.set_cmap(cmap)
         plt.clim(-0.5, 4.5)
         ax.set_aspect('equal')
     plt.subplots_adjust(hspace=.4)
+    plt.tight_layout()
     plt.savefig('readingTimeline.png')
-    
-def buildReadMe(folders): # rebuilds the readme file 
+
+def buildReadMe(folders): # rebuilds the readme file
     readme = 'README.md'
-    n = 11 # These are the lines before the actual listed links
+    n = 15 # These are the lines before the actual listed links
     nfirstlines = []
     with open(readme) as f, open("readmetmp.txt", "w") as out:
         for x in range(n):

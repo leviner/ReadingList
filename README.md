@@ -376,7 +376,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ### OOI 
  
 * [Chen2018O - Atmospheric and Offshore Forcing of Temperature Variability at the Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Chen2018O.md) 
-     *  
+     * Review of the atmospheric processes that impact the heat balance between advection and air-sea interactions 
 * [Gawarkiewicz2018O - The Changing Nature of Shelf-Break Exchange Revealed by the OOI Pioneer Array](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Gawarkiewicz2018O.md) 
      * Observations from OOI gliders and moorings of warm core ring intrusions and new shelf break exchange processes. 
 * [Harden2020JGRO - Trends in Physical Properties at the Southern New England Shelf Break](https://github.com/leviner/ReadingList/tree/master/papers/other/OOI/Harden2020JGRO.md) 
