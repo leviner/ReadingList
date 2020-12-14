@@ -200,6 +200,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Acoustic surveys in the canadian arctic show correlation with polar cod biomass and earlier ice breakup date. 
 * [Loggerwell2015PO - Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Loggerwell2015PO.md) 
      * Synthesized five years of surveys to look at differences in abundance (density) of animals from the lagoon to shelf slope in the Chukchi and Beaufort.  They also looked at icthyoplankton.  Based on Icthyoplankton, they state that the Beaufort Sea shelf is likely a spawning location for Arctic cod. 
+* [Loggerwell2020DSRII - The effect of oceanographic variability on the distribution of larval fishes of the northern Bering and Chukchi seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Loggerwell2020DSRII.md) 
+     * Comparison of key larval fishes in 2012 and 2013 to environmental conditions, hyputhesizing that fishes have evolved spawn timing and location such that larvae can handle interannual variations in conditions 
 * [LowryFrost1981CFN - Distribution, growth, and foods of Arctic cod (Boreogadus saida) in the Bering, Chukchi and Beaufort Seas.](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/LowryFrost1981CFN.md) 
      * Observations of the biology of Arctic cod caught in bottom trawls in late-summer, 1977. 
 * [Marsh2017DSRII - Ontogenetic, spatial and temporal variation in trophic level and diet of Chukchi Sea fishes](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Marsh2017DSRII.md) 
