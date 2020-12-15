@@ -3,7 +3,7 @@
   <img src="https://github.com/leviner/ReadingList/blob/master/readingTimeline.png">
 </p>
 
-I am attempting to keep track of reading journal articles by maintaining a git repository that contains notes and .bib files specific to certain projects/themes/manuscripts. Although this was originally set up for long-form paper notes, I will also be including less thorough overviews just to keep track of papers I've perused.
+I am attempting to keep track of reading journal articles by maintaining a git repository that contains notes and .bib files specific to certain projects/themes/manuscripts. Although this was originally set up for long-form paper notes, I will also be including less thorough overviews just to keep track of papers I've perused. This project originated as a method of tracking papers when writing my thesis proposal in 2018.
 
 The goal is that these .md files will be able to be indexed by python based on things like author, keywords, and dates.  An example file, `noteTemplate.md` is available in the current directory.  Indexing can be done with `readingStats.py` which will be updated as needed. An accompanying jupyter notebook will be built with widget-based searching.
 
@@ -254,6 +254,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Mitogenomics show high diversity and are inconclusive as to whether temperature or food availability may drive mitochondrial evolution, showing arctic cod may be capable of responding to changing climate. 
 * [Wyllie-Echeverria1997AFS - Water masses and transport of age-0 Arctic cod and age-0 Bering flounder into the northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Wyllie-Echeverria1997AFS.md) 
      * Describe the abundance and distribution of larval bering flounder in late summer from 1989-1991 in relation to the sampled water masses.  Included collection of age-0 Arctic cod throughout the NE Chukchi to investigate water mass associations. 
+* [Yasumiishi2020DSRII - Climate-related changes in the biomass and distribution of small pelagic fishes in the eastern Bering Sea during late summer, 2002–2018](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Yasumiishi2020DSRII.md) 
+     * Analyses of fish biomass and distribution with changing SST in the eastern Bering Sea, includes use of VAST model for mapping species distribution. 
 
 ### ice 
  
