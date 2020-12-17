@@ -71,6 +71,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [DeRobertis2019JMS - Amplifier linearity accounts for discrepancies in echo-integration measurements from two widely used echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/DeRobertis2019JMS.md) 
      * Found that echo-integration measurements of Ek80 are lower than those of EK60, and the range-dependency of the differences suggested a non-linear amplification in one of the systems which was identified within the EK60. 
+* [Easson2020FMS - Combined eDNA and Acoustic Analysis Reflects Diel Vertical Migration of Mixed Consortia in the Gulf of Mexico](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Easson2020FMS.md) 
+     * Used eDNA sampling paired with shipboard and lowered echosounders systems to identify organism groups in DVM cycles, tracking taxa movement through the water column with both methods. 
 * [Lavery2017JMS - Exploiting signal processing approaches for broadband echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Lavery2017JMS.md) 
      * Demonstration of a) calibration based on frequency-dependent bandwidth and b) use of tapered match filter on untapered signal to resolve targets near boundaries. 
 * [LevineDeRobertis2019FR - Don’t work too hard: Subsampling leads to efficient analysis of large acoustic datasets](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/LevineDeRobertis2019FR.md) 
