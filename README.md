@@ -189,7 +189,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Huserbraten2019CB - Polar cod in jeopardy under the retreating Arctic sea ice](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Huserbraten2019CB.md) 
      * Backtracking modelling of age-0 polar cod dispersal, indicating that recruitment is largely correlated with ice presence and summer surface temperatures. 
 * [IvanovaEA2019 - Shipping alters the movement and behavior of Arctic cod (Boreogadus saida), a keystone fish in Arctic marine ecosystems](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/IvanovaEA2019.md) 
-     *  
+     * Investigated the movement of Arctic cod in resolute bay during the presence and absence of cruise ships, found behavioral changes (less feeding, more directed swimming). 
 * [Kent2016JFB - Laboratory rearing of wild Arctic cod Boreogadus saida from egg to adulthood](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Kent2016JFB.md) 
      * Specifics of process used for multiyear rearing of B. saida in aquarium conditions, including specific measurements of spawning, growth, and key development milestones for fish reared at 3.5C. 
 * [Kessel2016PB - Distinct patterns of Arctic cod (Boreogadus saida) presence and absence in a shallow high Arctic embayment, revealed across open-water and ice-covered periods through acoustic telemetry](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Kessel2016PB.md) 

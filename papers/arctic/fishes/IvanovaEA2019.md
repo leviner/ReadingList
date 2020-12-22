@@ -10,7 +10,7 @@ Resolute Bay
 ## Field Dates:
 07/27/2012 - 09/30/2012
 ## Significance:
-
+Investigated the movement of Arctic cod in resolute bay during the presence and absence of cruise ships, found behavioral changes (less feeding, more directed swimming).
 
 ## Notes:
 Decadal scale decrease in sea ice is leading to an increase in vessel traffic , which has doubled over the last 20 years. This is expected to continue to increase, further increasing the acoustic noise in the Arctic, with potential ecological implications along the northwest passage. There are currently no reports of acoustic noise impacts on Arctic fishes. Changes in distribution of Arctic cod as a result of increased ship traffic may have cascading impacts for ecosystems. Identification of behaviors and subsequent changes in those behaviors as a result of vessels is necessary to evaluate future impacts of shipping increases.
