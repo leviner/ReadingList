@@ -328,6 +328,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * An overview, given by Fausch, of the development of his drift foraging model and expansion and extended applications that have occurred since. 
 * [Genner1999JAE - Resource control by territorial male cichlid fish in Lake Malawi](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Genner1999JAE.md) 
      * Interspecific territoriality may reduce competition between species with different diets, thus promoting coexistence and high levels of diversity. 
+* [Lubchenco2020N - Five priorities for a sustainable ocean economy](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Lubchenco2020N.md) 
+     * Priorities and suggestions of the Ocean Panel for global policy action  for ocean energy, sustainability, and accounting. 
 * [Mailik2020FMS - Environmentally Driven Seasonal Forecasts of Pacific Hake Distribution](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mailik2020FMS.md) 
      * Used habitat characteristics and temperature, including a lead time (i.e., conditions from the previous 8 months) to predict hake distribution. 
 * [Mehner2012FB - Diel vertical migration of freshwater fishes - proximate triggers, ultimate causes and research perspectives](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mehner2012FB.md) 
