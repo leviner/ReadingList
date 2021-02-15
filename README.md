@@ -236,6 +236,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Biophysical modeling of early life history for walleye pollock in the EBS, suggesting temperature (ice conditions) and the resultin difference in temperature-dependent growth is the primary driver of inerannual variability in distribution. 
 * [Petrik2016JMS - Modelled connectivity between Walleye Pollock (Gadus chalcogrammus) spawning and age-0 nursery areas in warm and cold years with implications for juvenile survival](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Petrik2016JMS.md) 
      * Modeled connectivity of age-0 pollock population to spawning locations in the Eastern Bering. Patterns mostly follow along-isobath flow, though differ between warm and cold years. 
+* [PettittWadeFF2020 - Cod movement ecology in a warming world: Circumpolar arctic gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/PettittWadeFF2020.md) 
+     * Review of the movement ecology of Arctic and Polar cod based on the current literature to address (a) movements at multiple scales and (b) the current and potential impacts of climate change. **Excellent source of references, see Figure 5, Tables 3A, 3B**. 
 * [Ponomarenko2000JI - Eggs, larvae, and juveniles of polar cod Boreogadus saida in the Barents, Kara, and White Seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Ponomarenko2000JI.md) 
      * Observations of eggs, larvae, and juveniles from 14 years of sampling Polar cod.  The early life cycle is described, and differences in specimen and development are attributed environmental conditions. 
 * [Quast1974FB - Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Quast1974FB.md) 
@@ -246,6 +248,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
 * [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Spencer2020PB.md) 
      * Lab studies of egg and larval densities and salinity tolerances in the four north pacific gadid species, using model conditions to look at spatial impacts. 
+* [StoneAFSC2019 - Arctic cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/StoneAFSC2019.md) 
+     * AFSC Age and Growth Program report on Arctic cod growth rates and criteria for ageing using otoliths. 
 * [Vestfals2019PB - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Vestfals2019PB.md) 
      * Vestfals et al aim to narrow down the potential spawning grounds for arctic and saffron cod based on the physical oceanography and summer distribution.  It contains a good review in the intro of the current literature on early life history. 
 * [VikeboMEPS2019 - Drift, growth, and survival of larval Northeast Arctic cod with simple rules of behaviour](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/VikeboMEPS2019.md) 
