@@ -220,6 +220,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Comparison of key larval fishes in 2012 and 2013 to environmental conditions, hyputhesizing that fishes have evolved spawn timing and location such that larvae can handle interannual variations in conditions 
 * [LowryFrost1981CFN - Distribution, growth, and foods of Arctic cod (Boreogadus saida) in the Bering, Chukchi and Beaufort Seas.](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/LowryFrost1981CFN.md) 
      * Observations of the biology of Arctic cod caught in bottom trawls in late-summer, 1977. 
+* [MajewskiPB2016 - Distribution and diet of demersal Arctic Cod, Boreogadus saida, in relation to habitat characteristics in the Canadian Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/MajewskiPB2016.md) 
+     *  
 * [Marsh2017DSRII - Ontogenetic, spatial and temporal variation in trophic level and diet of Chukchi Sea fishes](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Marsh2017DSRII.md) 
      * Examined the isoscapes and relation to water masses in the Chukchi Sea, looking for diet niches of pelagic fishes, particularly Arctic cod. 
 * [Marsh2019PB - Environmental and biological influences on the distribution and population dynamics of Arctic cod (Boreogadus saida) in the US Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Marsh2019PB.md) 
