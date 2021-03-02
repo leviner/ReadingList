@@ -10,7 +10,7 @@ Beaufort Sea
 ## Field Dates:
 08/01/2012 - 08/30/2012
 ## Significance:
-
+Cross-slope sampling of Arctic cod in the Canadian Beaufort shows differentiation in diet and size.
 
 ## Notes:
 They conducted a series of cross-slope transects in the Canadian Beaufort to look at the relative biomass of Arctic cod across depth strata, associations with bottom habitat and water mass, and variability in diet across those habitats and masses.

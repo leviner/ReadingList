@@ -221,7 +221,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [LowryFrost1981CFN - Distribution, growth, and foods of Arctic cod (Boreogadus saida) in the Bering, Chukchi and Beaufort Seas.](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/LowryFrost1981CFN.md) 
      * Observations of the biology of Arctic cod caught in bottom trawls in late-summer, 1977. 
 * [MajewskiPB2016 - Distribution and diet of demersal Arctic Cod, Boreogadus saida, in relation to habitat characteristics in the Canadian Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/MajewskiPB2016.md) 
-     *  
+     * Cross-slope sampling of Arctic cod in the Canadian Beaufort shows differentiation in diet and size. 
 * [Marsh2017DSRII - Ontogenetic, spatial and temporal variation in trophic level and diet of Chukchi Sea fishes](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Marsh2017DSRII.md) 
      * Examined the isoscapes and relation to water masses in the Chukchi Sea, looking for diet niches of pelagic fishes, particularly Arctic cod. 
 * [Marsh2019PB - Environmental and biological influences on the distribution and population dynamics of Arctic cod (Boreogadus saida) in the US Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Marsh2019PB.md) 
@@ -254,6 +254,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
 * [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Spencer2020PB.md) 
      * Lab studies of egg and larval densities and salinity tolerances in the four north pacific gadid species, using model conditions to look at spatial impacts. 
+* [StevensonLauth2019PB - Bottom trawl surveys in the northern Bering Sea indicate recent shifts in the distribution of marine species](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/StevensonLauth2019PB.md) 
+     * Comparison of the distribution of fish in the Eastern Bering Sea during cold and warm periods based on groundfish surveys. 
 * [StoneAFSC2019 - Arctic cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/StoneAFSC2019.md) 
      * AFSC Age and Growth Program report on Arctic cod growth rates and criteria for ageing using otoliths. 
 * [Vestfals2019PB - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Vestfals2019PB.md) 
