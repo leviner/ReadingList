@@ -182,6 +182,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * The authors observed two distinct layers of arctic cod, an epipelagic layer of age-0 fish which forms in spring, begins DVM in summer, and settles to depth in late fall, and a mesopelagic layer of age-1+ fish.  They used TS to estimate length at depth to show a stratification and seasonal vaibility in the two layers, as well as estimate biomass. 
 * [Geoffroy2019FMS - Mesopelagic sound scattering layers of the high Arctic: Seasonal variations in biomass, species assemblage, and trophic relationships](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Geoffroy2019FMS.md) 
      * Observations of mesopelagic scattering layers in the high arctic, describing the seasonality of the SSL, including the condition of the organisms and trophic interactions. 
+* [Gonzalez2021PB - Multi-scale temporal variability in biological-physical associations in the NE Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Gonzalez2021PB.md) 
+     * Temporal patterns and coherence among physical and biological variables at the Chukchi Ecological Observatory using acoustic and oceanographic moorings. 
 * [GrahamHop1995A - Aspects of Reproduction and Larval Biology of Arctic Cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/GrahamHop1995A.md) 
      * Study of larval fish ecology of Arctic cod, describing timing and sizes of larval phases. 
 * [Gray2016PB - Variability in the summer diets of juvenile polar cod (Boreogadus saida) in the northeastern Chukchi and western Beaufort Seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Gray2016PB.md) 
