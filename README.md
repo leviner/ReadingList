@@ -166,6 +166,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Variation in winter ice conditions is the main driver of polar cod length-at-age. Early ice retreat in the Brents leads to higher survival of early hatchers and possible faster growth, resulting in a larger length-at-age for age-0 cohort. 
 * [Eisner2013PB - Pelagic fish and zooplankton species assemblages in relation to water mass characteristics in the northern Bering and southeast Chukchi seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eisner2013PB.md) 
      * Characterization of the zooplankton and pelagic fish community in relation to the physical and biological properties of the water masses in the northern Bering and southern Chukchi Seas. 
+* [Eisner2020DSRII - Environmental impacts on walleye pollock (Gadus chalcogrammus) distribution across the Bering Sea shelf](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eisner2020DSRII.md) 
+     * Observations of shifting pollock distribution into the northern Bering Sea during recent warming (2017 - 2019). 
 * [Eriksen2015RSMS - The effect of recent warming on polar cod and beaked redfish juveniles in the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eriksen2015RSMS.md) 
      * Decadal trends in distribution of polar cod and redfish in the Barents Sea, indicating that temperature is a likely important driver of abundance, distribution, and growth in  age-0 polar cod and redfish. 
 * [Eriksen2019PB - Polar cod egg and larval drift patterns in the Svalbard archipelago](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Eriksen2019PB.md) 
