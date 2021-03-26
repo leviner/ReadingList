@@ -21,7 +21,9 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Benoit-Bird2018LOM - Equipping an underwater glider with a new echosounder to explore ocean ecosystems](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Benoit-Bird2018LOM.md) 
      * An EK80 (WBT-Mini) was installed on a slocum glider and deployed in Monterey Bay.  This paper documents the instrumentation, installation, and preliminary data from the first deployments. 
-* [DeRobertis2018InPrep - Comparison of acoustic backscatter measurements from unmanned sailing vehicles and a noise-reduced research vessel](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/DeRobertis2018InPrep.md) 
+* [DeRobertis2019JMS - Uncrewed surface vehicle (USV) survey of walleye pollock, Gadus chalcogrammus, in response to the cancellation of ship-based surveys](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/DeRobertis2019JMS.md) 
+     *  
+* [DeRobertis2021InPrep - Comparison of acoustic backscatter measurements from unmanned sailing vehicles and a noise-reduced research vessel](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/DeRobertis2021InPrep.md) 
      * Currently in preparation manuscript on the 2016 Saildrone deployment in the Bering Sea, investigating vessel avoidance during opportunistic and follow-the-leader ship-saildrone comparisons. 
 * [Kaartvedt2009MEPS - Use of bottom-mounted echo sounders in exploring behavior of mesopelagic fishes](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Kaartvedt2009MEPS.md) 
      * Reporting of observations from 3 months of a 15-month deployment of a moored upward facing EK60 in a fjord, with brief discussions of the behavior of lanternfish. Behaviors were derived from tracked fish, using population movement as the "current" to be removed from individual tracks. 
