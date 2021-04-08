@@ -54,12 +54,16 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Simulations and field observations of TS and angle biases due to surface reflection in horizontal acoustics and target tracking.   
 * [Bassett2018JMS - Broadband echosounder measurements of the frequency response of fishes and euphausiids in the Gulf of Alaska](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Bassett2018JMS.md) 
      * Demonstrate the variability in Sv spectra among different monospecific aggregations in the Gulf of Alaska and the limited ability to discriminate among species. 
+* [Bassett2020JASA - Frequency- and depth-dependent target strength measurements of individual mesopelagic scatterers](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Bassett2020JASA.md) 
+     * Observations of depth-variable TS and spectral classification in mesopelagic layers which indicate ship-based 38 kHz estimates may be underestimating biomass. 
 * [Boswell2020FR - Examining the relationship between morphological variation and modeled broadband scattering responses of reef-associated fishes from the Southeast United States](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Boswell2020FR.md) 
      * Used CT scan swimbladder models to look at variability in common reef fish species in the Gulf of Mexico. Variability was high, and they report new TS-L relationships for their taxa. 
 * [BrautasetJMS2020 - Acoustic classification in multifrequency echosounder data using deep convolutional neural networks](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/BrautasetJMS2020.md) 
      * Use of a CNN to identify sandeel in multiple years of multifrequency data, demonstrating potential and advantages. Model performance was good but highly dependent on annotation and training setup, and performance varied by year. 
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
      * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
+* [Cotter2021JASA - Comparison of mesopelagic organism abundance estimates using in situ target strength measurements and echo-counting techniques](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Cotter2021JASA.md) 
+     * Comparision of organism density estimates derived from volume backscatter and echo-counting methods. 
 * [EhrenbergTorkelson1996JMS - Application of dual-beam and split-beam target tracking in fisheries acoustics](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/EhrenbergTorkelson1996JMS.md) 
      * Discussion of dual-beam and split-beam fish tracking techniques and their application for fisheries research.  Appendix contains calculations for error/noise in split-beam angular estimates. 
 * [Foote1987JASA - Fish target strengths for use in echo integrator surveys](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Foote1987JASA.md) 
