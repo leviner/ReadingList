@@ -134,6 +134,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Aronovich1975AC - Egg incubation and larval rearing of navaga (Eleginus navaga Pall.), polar cod (Boreogadus saida lepechin) and arctic flounder (Liopsetta glacialis Pall.) in the laboratory](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Aronovich1975AC.md) 
      * Early description of Arctic cod egg and larval stages through incubation experiments, with developmental timing and growth rates 
+* [Baker2021PB - Contrast of warm and cold phases in the Bering Sea to understand spatial distributions of Arctic and sub-Arctic gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Baker2021PB.md) 
+     * Analyses of 20+ years of ground fish surveys in the Bering Sea to identify habitat and temperature associations as well as recent changes in distribution of the four key North Pacific gadids. 
 * [Benoit2008JGRO - Hydroacoustic detection of large winter aggregations of Arctic cod (Boreogadus saida) at depth in ice-covered Franklin Bay (Beaufort Sea)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Benoit2008JGRO.md) 
      * This study describes the presence and dispersal of a large, dense aggregation of Arctic cod observed overwinter in Franklin Bay, and aims to explore the physical and behavioral mechanisms responsible for their retention in deep water. 
 * [Benoit2014PB - Pre-winter distribution and habitat characteristics of polar cod (Boreogadus saida) in southeastern Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Benoit2014PB.md) 
