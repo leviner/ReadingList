@@ -45,6 +45,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Use of a moored 38kHz echosounder to correlate backscatter with oceanographic variability over an 18-month deployment in Monterey Bay, CA, USA.  Same system used in [Urmy et al, 2012, *J. Mar. Sci.*](https://academic.oup.com/icesjms/article/69/2/184/701699). 
 * [Verfuss2019MPB - A review of unmanned vehicles for the detection and monitoring of marine fauna](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Verfuss2019MPB.md) 
      * A review of passive and active acoustic integration into unmanned vehicles, aimed at marine animal monitoring. 
+* [Zhang2021JOE - Persistent Sampling of Vertically Migrating Biological Layers by an Autonomous Underwater Vehicle within the Beam of a Seabed-Mounted Echosounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Zhang2021JOE.md) 
+     * Use of AUVs to collect eDNA samples within the beam of a seafloor mounted echosounder 
 
 ### targets 
  
@@ -68,6 +70,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Discussion of dual-beam and split-beam fish tracking techniques and their application for fisheries research.  Appendix contains calculations for error/noise in split-beam angular estimates. 
 * [Foote1987JASA - Fish target strengths for use in echo integrator surveys](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Foote1987JASA.md) 
      * An investigation into the backscattering cross section, or target strength, of fish, and the methods for in situ determination of TS and relating it to fish length.  Foote proposes a set of regression analyses from in situ measurements for generalized fish families based on available data. 
+* [KlevjarKaardvedt2003ALR - Split-beam target tracking can be used to study the swimming behaviour of deep-living plankton in situ](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/KlevjarKaardvedt2003ALR.md) 
+     *  
 * [Stanton2003JMR - Inferring fish orientation from broadband-acoustic echoes](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Stanton2003JMR.md) 
      * Demonstration of the use of pulse-compressed broadband signal to constrain fish orientation by identifying multiple scattering sources within a single fish. 
 * [TorgersenKaartvedt2001JMR - In situ swimming behaviour of individual mesopelagic fish studied by split-beam echo target tracking](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/TorgersenKaartvedt2001JMR.md) 
@@ -75,6 +79,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### unsorted 
  
+* [Andersen2021arXiv - Quantitative processing of broadband data as implemented in a scientific splitbeam echosounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Andersen2021arXiv.md) 
+     * Overview of broadband signal processing as implemented in EK80. Presents the equations for calculating frequency dependent TS and Sv. 
 * [DeRobertis2019JMS - Amplifier linearity accounts for discrepancies in echo-integration measurements from two widely used echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/DeRobertis2019JMS.md) 
      * Found that echo-integration measurements of Ek80 are lower than those of EK60, and the range-dependency of the differences suggested a non-linear amplification in one of the systems which was identified within the EK60. 
 * [Easson2020FMS - Combined eDNA and Acoustic Analysis Reflects Diel Vertical Migration of Mixed Consortia in the Gulf of Mexico](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Easson2020FMS.md) 
@@ -85,8 +91,6 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Demonstration of systematic subsampling to produce similar survey means with reduced user effort. 
 * [Ona1996JMS - Acoustic sampling and signal processing near the seabed: The deadzone revisited](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Ona1996JMS.md) 
      * Description and equations for acoustic dead zone and sA correction. 
-* [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Rose1995JMS.md) 
-     * Observations of cod migration from spawning to feeding grounds over 3 years using acoustic detection of shoal centroid.  Observations indicate fish use active behavior to remain within the migration route. 
 
 ## arctic 
  
@@ -262,6 +266,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This was the first fisheries survey of Arctic cod in the NE Chukchi (as far as I know), and showed that there were primarily young of the year A. cod, with a depth-dependent density.  Quast also speculates about the origin of the juvenile cod. 
 * [Renaud2012PB - Is the poleward expansion by Atlantic cod and haddock threatening native polar cod, Boreogadus saida?](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Renaud2012PB.md) 
      * Analysis of diets in co-occurring Arctic cod, haddock, and Atlantic cod, showing minimal diet overlap, even with variability between fjord and ice-edge conditions. 
+* [RogersDougherty2018GCB - Effects of climate and demography on reproductive phenology of a harvested marine fish population](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/RogersDougherty2018GCB.md) 
+     * Overview of how pollock spawning timing has shifted over cold and warm periods in the Gulf of Alaska. 
 * [Skaret2020MEPS - Diel vertical movements determine spatial interactions between cod, pelagic fish and krill on an Arctic shelf bank](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Skaret2020MEPS.md) 
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
 * [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Spencer2020PB.md) 
@@ -296,6 +302,11 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/arctic/ice/Stroeve2014GRL.md) 
      * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 
+### other 
+ 
+* [Wietz2021bRxiv - The Polar  Night Shift: Annual Dynamics  and  Drivers  of  Microbial  Community Structure in the Arctic Ocean](https://github.com/leviner/ReadingList/tree/master/papers/arctic/other/Wietz2021bRxiv.md) 
+     * Year long observations of shifts in the microbial community in Fram Strait. Use of RAS for collection and preservation of samples 
+
 ### plankton 
  
 * [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Ashjian2017DSRII.md) 
@@ -306,6 +317,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Synthesis of the findings from the Chukchi Sea Environmental Studies Program from 2008-2010 at three regions of oil exploration interest near Hanna Shoal. 
 * [Ershova2015PB - Inter-annual variability of summer mesozooplankton communities of the western Chukchi Sea: 2004–2012](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Ershova2015PB.md) 
      * Description of the zooplankton community in relation to water masses during 4 years of the RUSALCA survey program.  Community structure strongly correlated with bottom temperature. 
+* [Hobbs2021BL - A marine zooplankton community vertically structured by light across diel to interannual timescales](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Hobbs2021BL.md) 
+     * Use of adcps to monitor the seasonal and interannual variability in vertical position of the zooplankton community. A defined modeled isolume can be used to represent the shallow boundary of zooplankton. 
 * [Im2019PO - Evidence for resource partitioning by ontogeny and species in calanoid copepods](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Im2019PO.md) 
      * Observations of fine-scale feeding habitat partitioning by clanoid species in the East Sea through stable isotope analysis. 
 * [Kitamura2017CSR - Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Kitamura2017CSR.md) 
@@ -372,6 +385,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
 * [Rose1995JMR - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Rose1995JMR.md) 
      * Observations of cod migration behavior by tracking agreggations using acoustics. They identify changes in school behavior with seaward/shoreward flow that suggest active transport. 
+* [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Rose1995JMS.md) 
+     * Observations of cod migration from spawning to feeding grounds over 3 years using acoustic detection of shoal centroid.  Observations indicate fish use active behavior to remain within the migration route. 
 * [ScheuerellSchindler2003E - Diel Vertical Migration by Juvenile Sockeye Salmon: Empirical Evidence for the Antipredation Window](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/ScheuerellSchindler2003E.md) 
      * Juvenile sockeye migrate to maintain a specific light environment to minimize predation risk in lakes. 
 * [Sisneros2009IZ - Adaptive hearing in the vocal plainfin midshipman fish: getting in tune for the breeding season and implications for acoustic communication.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Sisneros2009IZ.md) 
