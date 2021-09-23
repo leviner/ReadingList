@@ -168,6 +168,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper presents evidence of jellyfish avoidance by Arctic cod in a shallow bay of the Canadian Arctic Archipelago.  The authors describe observations of partitioning which they attribute primarily to avoidance. 
 * [Dahlke2018SA - Northern cod species face spawning habitat losses if global warming exceeds 1.5°C](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Dahlke2018SA.md) 
      * Investigating the mpact of temperature and pCO2 on egg and larval development from broodstock. Additionally, they model loss of appropriate spawning areas based on future climate scenarios. 
+* [Deary2021PB - Seasonal abundance, distribution, and growth of the early life stages of polar cod (Boreogadus saida) and safron cod (Eleginus gracilis) in the US Arctic](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Deary2021PB.md) 
+     * Early life history stages of Arctic and saffron cod in 2017, using trhe Vestfals 2021 model to replicate 2017 from the bottom trawl data. 
 * [DeRobertis2015DSRIIa - Species and size selectivity of two midwater trawls used in an acoustic survey of the Alaska Arctic](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/DeRobertis2015DSRIIa.md) 
      * De Robertis et al. conducted a trawl selectivity experiment using recapture nets on a modified-Marinovich trawl to asses the species- and size-specific selectivity.  There is significant escapement, even for the most abundant species, and this analysis is required to properly calculate biomass/abundance estimates for juvenile Arctic cod. 
 * [DeRobertis2017DSRIIb - Abundance and distribution of Arctic cod (Boreogadus saida) and other pelagic fishes over the U.S. Continental Shelf of the Northern Bering and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/DeRobertis2017DSRIIb.md) 
@@ -311,6 +313,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Ashjian2017DSRII.md) 
      * Description of the late-summer zooplankton community composition at Hannah Shoal during August of 2012 and 2013, focusing on copepods and euphausiids of interest for bowhead whales. 
+* [Ashjian2021PLOS - Lingering Chukchi Sea sea ice and Chukchi Sea mean winds influence population age structure of euphausiids (krill) found in the bowhead whale feeding hotspot near Pt. Barrow, Alaska](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Ashjian2021PLOS.md) 
+     *  
 * [Darnis2019PO - Could offspring predation offset the successful reproduction of the arctic copepod Calanus hyperboreus under reduced sea-ice cover conditions?](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Darnis2019PO.md) 
      * Year-round observations of C. hyperboreus growth and reproduction in the Canadian Beaufort Sea.  Hypothesize top-down control of the C. hyperboreus population by other omnivore species (M. longa, C. glacialis), increased by extended ice-free periods. 
 * [Day2013CSR - The offshore northeastern Chukchi Sea, Alaska: A complex high-latitude ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/arctic/plankton/Day2013CSR.md) 
