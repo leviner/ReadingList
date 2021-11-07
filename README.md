@@ -87,6 +87,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Used eDNA sampling paired with shipboard and lowered echosounders systems to identify organism groups in DVM cycles, tracking taxa movement through the water column with both methods. 
 * [Lavery2017JMS - Exploiting signal processing approaches for broadband echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Lavery2017JMS.md) 
      * Demonstration of a) calibration based on frequency-dependent bandwidth and b) use of tapered match filter on untapered signal to resolve targets near boundaries. 
+* [Lee2021arXiv - Echopype: A Python library for interoperable and scalable processing of water column sonar data for biological information](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Lee2021arXiv.md) 
+     * Overview of Echopype python library for processing of water column sonar data 
 * [LevineDeRobertis2019FR - Don’t work too hard: Subsampling leads to efficient analysis of large acoustic datasets](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/LevineDeRobertis2019FR.md) 
      * Demonstration of systematic subsampling to produce similar survey means with reduced user effort. 
 * [Ona1996JMS - Acoustic sampling and signal processing near the seabed: The deadzone revisited](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Ona1996JMS.md) 
@@ -111,6 +113,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * 2018 
 * [Martini2016JGRO - Dependence of subsurface chlorophyll on seasonal water masses in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Martini2016JGRO.md) 
      * Mapping of the subsurface chlorophyll maximum in the NE Chukchi Sea in late-summer, and the variability in nutrients and chlorophyll with hydrography and meltwater/summer water fronts.  They show that SCM depth in late summer is sensitive to seasonal changes in hydrography. 
+* [Ovall2021PO - Ice, wind, and water: Synoptic-scale controls of circulation in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Ovall2021PO.md) 
+     * SYnthesis of mooring, satellite, model, and weather statio data to look at relationship between circulation, wind, and sea ice over 1 year in the Chukchi Sea. Identifies modes of flow driven by northeasterly winds. 
 * [Peralta-FerrizWoodgate2017GRL - The Dominant Role of the East Siberian Sea in Driving the Oceanic Flow Through the Bering Strait—Conclusions From GRACE Ocean Mass Satellite Data and In Situ Mooring Observations Between 2002 and 2016](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Peralta-FerrizWoodgate2017GRL.md) 
      * Use of satellite-derived mean ocean bottom pressure which indicates that the dominant driver of variability in Bering trait throughflow is low sea surface height in the East Siberian Sea as a result of westward winds moving water from the shelves to the basin. 
 * [Pickart2016DSRII - Circulation of winter water on the Chukchi shelf in early Summer](https://github.com/leviner/ReadingList/tree/master/papers/arctic/circulation/Pickart2016DSRII.md) 
@@ -274,6 +278,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Interactions in the Barents Sea between atlantic cod, pelagic fish, and krill. Use of 3 different acoustic datasets to look at foraging and spatial distribution relationships with the diel cycle. 
 * [Spencer2020PB - Ontogenetic changes in the buoyancy and salinity tolerance of eggs and larvae of polar cod (Boreogadus saida) and other gadids](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Spencer2020PB.md) 
      * Lab studies of egg and larval densities and salinity tolerances in the four north pacific gadid species, using model conditions to look at spatial impacts. 
+* [Stabeno1996FR - Observed patches of walleye pollock eggs and larvae in Shelikof Strait, Alaska: their characteristics, formation and persistence ](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/Stabeno1996FR.md) 
+     * Investigation of the spatial patchiness of ELS pollock in Shelikof Strait. Patches appear to be identified from currents, small-scale eddies, and proximity to geograhic features. 
 * [StevensonLauth2019PB - Bottom trawl surveys in the northern Bering Sea indicate recent shifts in the distribution of marine species](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/StevensonLauth2019PB.md) 
      * Comparison of the distribution of fish in the Eastern Bering Sea during cold and warm periods based on groundfish surveys. 
 * [StoneAFSC2019 - Arctic cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/arctic/fishes/StoneAFSC2019.md) 
