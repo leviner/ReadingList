@@ -91,9 +91,10 @@ def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs):
     return ax
 
 def calendarMap(testTable): # Build the assembled calendar heat map. This is what will ned to be adjusted with each new year
-    fig = plt.figure(figsize=(14,6))
+    plt.rcParams.update({'font.size':8})
+    fig = plt.figure(figsize=(14,10))
     for year in sorted(testTable.Date.dt.year.unique()):
-        ax = plt.subplot(4,1,np.where(testTable.Date.dt.year.unique() == year)[0][0]+1)
+        ax = plt.subplot(5,1,np.where(testTable.Date.dt.year.unique() == year)[0][0]+1)
         date_heatmap(testTable[testTable.Date.dt.year == year].groupby('Date').count()['fName'], start = pd.to_datetime('1-1-'+str(year)), end = pd.to_datetime('12-31-'+str(year)))
         cmap = mpl.cm.get_cmap('Blues', 5)
         plt.set_cmap(cmap)
