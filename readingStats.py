@@ -8,6 +8,7 @@ import matplotlib as mpl
 import numpy as np
 import os
 from wordcloud import WordCloud
+import datetime
 
 def paperStats(files): # builds the table from the md files
     testDict = {'Date':[],'fName':[],'Title':[],'Keywords':[], 'Geography':[]}
@@ -92,14 +93,14 @@ def date_heatmap(series, start=None, end=None, mean=False, ax=None, **kwargs):
 
 def calendarMap(testTable): # Build the assembled calendar heat map. This is what will ned to be adjusted with each new year
     plt.rcParams.update({'font.size':8})
-    fig = plt.figure(figsize=(14,10))
-    for year in sorted(testTable.Date.dt.year.unique()):
-        ax = plt.subplot(5,1,np.where(testTable.Date.dt.year.unique() == year)[0][0]+1)
-        date_heatmap(testTable[testTable.Date.dt.year == year].groupby('Date').count()['fName'], start = pd.to_datetime('1-1-'+str(year)), end = pd.to_datetime('12-31-'+str(year)))
-        cmap = mpl.cm.get_cmap('Blues', 5)
-        plt.set_cmap(cmap)
-        plt.clim(-0.5, 4.5)
-        ax.set_aspect('equal')
+    fig = plt.figure(figsize=(14,2))
+    year = datetime.date.today().year
+    ax = plt.subplot(1,1,1)
+    date_heatmap(testTable[testTable.Date.dt.year == year].groupby('Date').count()['fName'], start = pd.to_datetime('1-1-'+str(year)), end = pd.to_datetime('12-31-'+str(year)))
+    cmap = mpl.cm.get_cmap('Blues', 5)
+    plt.set_cmap(cmap)
+    plt.clim(-0.5, 4.5)
+    ax.set_aspect('equal')
     plt.subplots_adjust(hspace=.4)
     plt.tight_layout()
     plt.savefig('readingTimeline.png')
@@ -120,9 +121,9 @@ def buildReadMe(folders): # rebuilds the readme file
 
     with open(readme,'a') as myFile:
         for folder in folders:
-            myFile.write('\n## '+ folder.split('\\')[1]+' \n \n')
+            myFile.write('\n## '+ folder.split('/')[1]+' \n \n')
             for subfolder in glob(folder+'*/'):
-                myFile.write('\n### '+ subfolder.split('\\')[-2]+' \n \n')
+                myFile.write('\n### '+ subfolder.split('/')[-2]+' \n \n')
                 for file in glob(subfolder+'*.md'):
                     f = open(file,'r')
                     title = f.read().split('\n')[4]
