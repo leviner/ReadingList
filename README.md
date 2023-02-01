@@ -275,6 +275,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Used CT scan swimbladder models to look at variability in common reef fish species in the Gulf of Mexico. Variability was high, and they report new TS-L relationships for their taxa. 
 * [Cotter2021JASA - Comparison of mesopelagic organism abundance estimates using in situ target strength measurements and echo-counting techniques](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Cotter2021JASA.md) 
      * Comparision of organism density estimates derived from volume backscatter and echo-counting methods. 
+* [Dunn2022LOM - Evaluation of discrete target detection with an acoustic Doppler current profiler](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Dunn2022LOM.md) 
+     * Proof-of-concept demonstration comparing single target detection by ADCP to split-beam echosounder. Associated with BAMFF software package. 
 * [KlevjarKaardvedt2003ALR - Split-beam target tracking can be used to study the swimming behaviour of deep-living plankton in situ](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/KlevjarKaardvedt2003ALR.md) 
      *  
 * [Arrhenius2000FR - Can stationary bottom split-beam hydroacoustics be used to measure fish swimming speed in situ?](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Arrhenius2000FR.md) 
